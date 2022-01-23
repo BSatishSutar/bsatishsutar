@@ -8,8 +8,8 @@ Highly adaptable professional offering 5 years of effective experience working i
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Cloud skills
-- 🌱 I’m currently learning AWS Cloud
+- 🔭 I’m currently working on Cloud skills | Architecture, Infrastructure design and implementation
+<!-- - 🌱 I’m currently learning AWS Cloud -->
 <!-- - 👯 I’m looking to collaborate on ... --!?
 - 🤔 I’m looking for help with job opportunities as Cloud Engineer or Associate SRE
 <!-- - 💬 Ask me about All things Cloud native --!> 
