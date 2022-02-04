@@ -1,4 +1,4 @@
-### Hi, I am Satish! Budding Cloud Engineer | I am up for all things Cloud native 👋
+### Hi, I am Satish! AWS Certified Solution Architect Associate - C02 | I am up for all things Cloud native 👋
 ___________________________________________________________________________________________________________________________________________________
 Highly adaptable professional offering 5 years of effective experience working in ITES, Telecom, Market research, BPM and Retail domains, on-the-job training of Cloud computing and 6 months of internship in AWS. Expert in solutions-oriented business application problem-solving and dedicated to providing best-in-class service. Skilled at troubleshooting, communication and collaboration.
 
