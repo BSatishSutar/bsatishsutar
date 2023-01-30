@@ -1,4 +1,4 @@
-### Hi, I am Satish! AWS Certified Solution Architect Associate - C02 | Advocating for cloud technology to drive infra and devops transformation 👋
+### Hi, I am Satish! AWS Cloud Engineer | Advocating for cloud technology to drive infra and devops transformation 👋
 ___________________________________________________________________________________________________________________________________________________
 Highly adaptable professional offering 5 years of effective experience working in ITES, Telecom, Market research, BPM and Retail domains, on-the-job training of Cloud computing and 6 months of internship in AWS. Expert in solutions-oriented business application problem-solving and dedicated to providing best-in-class service. Skilled at troubleshooting, communication and collaboration.
 
