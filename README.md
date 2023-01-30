@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: sssatishsutar@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Cloud computing enables us to run software programs without installing them on our computers
+- ⚡ Fun fact: Cloud computing was inspired by the power grid, which allows any device to access electricity from a centralized source.
