@@ -1,11 +1,14 @@
-# Hey, I'm Satish - Cloud and DevOps Engineer ![image](https://user-images.githubusercontent.com/40925459/222373338-aa22c454-6491-439f-b08b-061331158167.png)
+# Hey, I'm Satish - Cloud and DevOps Engineer
+
+ ![image](https://user-images.githubusercontent.com/40925459/222373338-aa22c454-6491-439f-b08b-061331158167.png)
+
+# 💫 About Me:
+
+🔭 I'm currently working on DevOps Skills, cloud skills, including architecture, infrastructure design, and implementation.<br>🌱I have just begun contributing to Open Source<br>🌱I'm looking to collaborate on contributing to Open Source<br>🌱I'm looking for help with enhancing my DevOps skills<br>🌱Ask me about AWS Cloud<br>⚡ Fun fact: Cloud computing was inspired by the power grid, which allows any device to access electricity from a centralized source.
 
 
-I'm passionate about leveraging cloud technology to drive infrastructure and DevOps transformation. With total 8 years of experience in technology sectors of ITES, Telecom, Market research, BPM, and Retail domains, I'm highly adaptable and a skilled problem-solver.
-
-- 🔭 I’m currently working on improving my cloud skills, including architecture, infrastructure design, and implementation.
-
-- 🌱 I’m also expanding my knowledge in DevOps tools and practices to enable efficient software delivery.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SatishSutar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CloudDevOpsEngineer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SGSMaven) 
 
 - 📫 You can reach me at sssatishsutar@gmail.com, or connect with me on:
 
@@ -15,32 +18,35 @@ I'm passionate about leveraging cloud technology to drive infrastructure and Dev
   - [Medium](https://medium.com/@CloudDevOpsEngineer)
   - [Hashnode](https://hashnode.com/@Satish-S)
   - [Newsletter](https://cloud101-newsletter-09c659.beehiiv.com/)
-  
-- ⚡ Fun fact: Cloud computing was inspired by the power grid, which allows any device to access electricity from a centralized source.
 
-## Cloud
-
-[![AWS Cloud](https://example.com/aws-cloud-icon.png)](https://aws.amazon.com/cloud/ "AWS Cloud")
-
-The AWS Cloud is a secure, flexible, and scalable cloud computing platform provided by Amazon Web Services (AWS).
-AWS).
-
-
-
-## Tools and Technologies
-
-Here are some of the DevOps tools and technologies I'm proficient in:
-
+# 💻 Tech Stack:
 [![Linux Badge](https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=Linux&logoColor=white)](https://www.linux.org/)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 [![YAML](https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white)](https://yaml.org/)
-[![Bash Shell](https://img.shields.io/badge/-Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/your-dockerhub-username)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/ "Prometheus")
+[![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
-Feel free to reach out if you have any questions or want to collaborate on a project!
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BSatishSutar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BSatishSutar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BSatishSutar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BSatishSutar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=SGSMaven)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BSatishSutar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/satishsutar) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
