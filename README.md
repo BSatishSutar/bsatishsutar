@@ -10,14 +10,12 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SatishSutar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CloudDevOpsEngineer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SGSMaven) 
 
-- 📫 You can reach me at sssatishsutar@gmail.com, or connect with me on:
+- 📫 Blogs and other links:
 
   - [Bio Link](https://bio.link/satishsutar)     
-  - [LinkedIn](https://www.linkedin.com/in/satish-sutar/)
-  - [Twitter](https://twitter.com/SGSMaven)
-  - [Medium](https://medium.com/@CloudDevOpsEngineer)
   - [Hashnode](https://hashnode.com/@Satish-S)
   - [Newsletter](https://cloud101-newsletter-09c659.beehiiv.com/)
+  - [Linkfree](https://linkfree.eddiehub.io/BSatishSutar)
 
 # 💻 Tech Stack:
 [![Linux Badge](https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=Linux&logoColor=white)](https://www.linux.org/)
