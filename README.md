@@ -1,4 +1,4 @@
-# Hey, I'm Satish - Cloud and DevOps Engineer
+# Hey, I'm Satish - Cross-platform Cloud and DevOps Engineer
 
 ![image](https://user-images.githubusercontent.com/40925459/222373338-aa22c454-6491-439f-b08b-061331158167.png)
 
@@ -9,10 +9,12 @@
 
 ⚡ Here's a fun fact: Cloud computing draws inspiration from the power grid, granting universal access to computing resources.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SatishSutar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CloudDevOpsEngineer) [![Hashnode](https://img.shields.io/badge/Hashnode-%23339933.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Satish-S)
+## Find Me Around the Web 🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SatishSutar) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CloudDevOpsEngineer) 
+[![Hashnode](https://img.shields.io/badge/Hashnode-%23339933.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Satish-S)
 
-- 📫 Blogs and other links:
+- 📫 Blogs and More:
   - [Bio Link](https://bio.link/satishsutar)
   - [Newsletter](https://cloud101-newsletter-09c659.beehiiv.com/)
   - [Linkfree](https://linkfree.eddiehub.io/BSatishSutar)
@@ -27,8 +29,6 @@
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -49,5 +49,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BSatishSutar&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
+
+## Support My Work 💰
+If you find my projects and content helpful, you can show your appreciation.
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/satishsutar)
+
+
+Your support helps me continue creating valuable resources for the community.
