@@ -1,6 +1,7 @@
 # Hey, I'm Satish - Cross-platform Cloud and DevOps Engineer
 
-![image](https://user-images.githubusercontent.com/40925459/222373338-aa22c454-6491-439f-b08b-061331158167.png)
+![Alt Text](https://i.imgur.com/lazmO3l.gif)
+
 
 ## 💫 About Me:
 🔭 I'm currently immersed in honing my DevOps and cloud skills, specializing in cross-platform architecture, infrastructure design, and implementation. My journey includes mastering CI/CD pipelines, containerization with Docker, orchestration via Kubernetes, and configuration management with tools like Ansible. I'm also exploring cloud platforms like AWS, Azure, and GCP, while actively building and executing projects to solidify my learning.. 
@@ -15,10 +16,10 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-%23339933.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Satish-S)
 
 - 📫 Blogs and More:
+  - [Portfolio](https://bsatishsutar.github.io/)
   - [Bio Link](https://bio.link/satishsutar)
   - [Newsletter](https://cloud101-newsletter-09c659.beehiiv.com/)
   - [Linkfree](https://linkfree.eddiehub.io/BSatishSutar)
-  - [Website](https://bsatishsutar.github.io/)
 
 ## 💻 Tech Stack:
 ⚙️ In my tech toolbox, you'll find a mix of battle-tested tools and cutting-edge technologies:
